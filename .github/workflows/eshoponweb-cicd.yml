@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: Ybcdc0c0b-9c26-4026-97df-959314c7a4e1
-  WEBAPP-NAME: eshoponweb-webapp-kakareji
+  WEBAPP-NAME: eshoponweb-webapp-kareji
 
 
 jobs:
